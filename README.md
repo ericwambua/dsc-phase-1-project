@@ -29,15 +29,24 @@ In the the course of my analysis, I will make use of the following data:
 
 * imdb.title.basics
 * imdb.title.ratings
-
 * bom.movie_gross
 * tmdb.movies.csv
 
 ## Findings
-1.
+1. Action, Adventure, Sci-Fi, and Fantasy genres have generated the highest total gross figures. However the Adventure, Drama, and Documentary genres were the top three based on their ratings as depicted by the below graphs.
 
+![image](https://github.com/ericwambua/dsc-phase-1-project/assets/133090475/5f386158-0b16-4fee-ae4e-77b8bc669820)
+![image](https://github.com/ericwambua/dsc-phase-1-project/assets/133090475/64fa814f-718e-4f0d-8472-d99397fe5f77)
+
+2. The data suggests a slight positive relationship between average ratings and mean total gross and that there is minimal relationship between the runtime of a movie and its average ratings
+![image](https://github.com/ericwambua/dsc-phase-1-project/assets/133090475/21ae7bcb-84b4-4c51-80ad-e5a8789d77dc)
+![image](https://github.com/ericwambua/dsc-phase-1-project/assets/133090475/76f2a7cf-699f-4d5b-8235-6c83ea8387b1)
+
+3. The analysis indicates that there is a strong positive effect of a studio's popularity on its domestic gross.It as well suggests that the production budget has a relatively significant impact on  domestic and worldwide gross, as well as overall profits.
+![image](https://github.com/ericwambua/dsc-phase-1-project/assets/133090475/228044e2-79f8-4d99-acaf-525b9c526fe6)
+![image](https://github.com/ericwambua/dsc-phase-1-project/assets/133090475/7342d3a6-5f27-43af-a161-d595e05ce226)
 
 
 ## Summary
 
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+This analysis has provided Microsoft with valuable insights into the factors to put in mind while starting up the Film studio. By considering the recomendations made based on the findings, Microsoft is now better placed to face the challenge. The identified factors, such as genre selection, production quality, and audience-centered strategies, will play crucial roles in determining success of Microsoft's film studio.
